@@ -1,0 +1,22 @@
+title: Forestry Insights
+description: An informational and scientific site about forestry topics.
+theme: minima
+baseurl: "" # the subpath of your site, e.g. /blog
+url: ""     # the base hostname & protocol, e.g. https://example.com
+
+# Navigation menu (custom data, used in layout)
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Research
+    url: /research/
+  - title: Resources
+    url: /resources/
+
+# Minima theme customizations
+minima:
+  skin: auto
+  social_links:
+    github: benr6991
