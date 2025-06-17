@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Welcome to Forestry Insights
+title: Test Website
 ---
 
-Welcome to **Forestry Insights** – a resource dedicated to sharing scientific information and research about forests, ecology, and environmental stewardship.
+This is a test website, here is where the description will go.
 
 Explore research, resources, and more using the navigation menu above!
