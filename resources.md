@@ -4,4 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 Additional data and resources
-![Alt text](/assets/photo1.png)
+![Alt text](/assests/photo1.png)
