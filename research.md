@@ -4,4 +4,4 @@ title: Research
 permalink: /research/
 ---
 
-Additional information about research
+Additional information about research.
