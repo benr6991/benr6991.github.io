@@ -1,0 +1,31 @@
+/* Increase distance from page edge to text */
+body {
+  padding: 40px 0; /* Top & bottom: 40px, left & right: 0 (for edge-to-edge backgrounds) */
+  margin: 0;
+  /* Background image and overlay */
+  background:
+    linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
+    url('/assets/background.jpg'); /* Change to your image path */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Add a content wrapper for inner spacing */
+main {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 32px;
+  background: rgba(255,255,255,0.85); /* Semi-transparent for readability */
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+}
+
+/* Optional: style header/footer for readability */
+header, footer {
+  max-width: 800px;
+  margin: 0 auto 16px auto;
+  padding: 16px 32px;
+  background: rgba(255,255,255,0.75);
+  border-radius: 12px;
+}
