@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Test Website
+title: Home
 ---
 * Table of contents
 {:toc}
