@@ -9,8 +9,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed; /* This keeps the image static */
-}
+  background-attachment: fixed; /* Keeps the background image static when scrolling */
 }
 
 /* Add a content wrapper for inner spacing */
