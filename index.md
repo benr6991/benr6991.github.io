@@ -11,7 +11,7 @@ title: Home
 * Table of contents
 {:toc}
 
-This is a test website, here is where the description will go.
+This is a test website, here is where the description will gofor the home page.
 
 Explore research, resources, and more using the navigation menu above!
 # Section 1
