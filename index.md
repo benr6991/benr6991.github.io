@@ -1,5 +1,8 @@
 ---
 layout: Default
 title: Title Page
-permalink: /
+permalink: /home/
 ---
+
+
+home page with general information
