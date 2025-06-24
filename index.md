@@ -2,8 +2,3 @@
 layout: home
 title: Home
 ---
-
-
-
-
-
