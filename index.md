@@ -1,6 +1,7 @@
 ---
 layout: Home
-title: /Home/
+title: Home
+permalink: /home/
 ---
 
 comment
