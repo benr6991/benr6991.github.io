@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Title Page
-permalink: /home/
+permalink: /
 ---
 
 
