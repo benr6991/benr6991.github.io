@@ -6,8 +6,8 @@ url: ""     # the base hostname & protocol, e.g. https://example.com
 
 # Navigation menu (custom data, used in layout)
 nav:
-  - title: Home
-    url: /
+  - title: History
+    url: /history/
   - title: About
     url: /about/
   - title: Research
