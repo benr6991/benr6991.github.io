@@ -1,7 +1,4 @@
 ---
-layout: Home
-title: Home
-permalink: /home/
+layout: blank
+permalink: /
 ---
-
-comment
