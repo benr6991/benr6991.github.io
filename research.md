@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Ensembles
+permalink: /Ensembles/
 ---
 
 Additional information about research.
