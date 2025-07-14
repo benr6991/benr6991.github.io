@@ -8,14 +8,11 @@ permalink: /FVS/
 * Table of contents
 {:toc}
 
-This is a test website, here is where the description will gofor the home page.
+# What is FVS
+A general description of the history and general function of the model
 
-Explore research, resources, and more using the navigation menu above!
-# Section 1
-this is where section 1 will go
+# Why FVS
+Why Use FVS instead of other forestry simulation tools
 
-# Section 2
-This is where section 2 will go
-
-## Other section
-Here is the final section
+# Challenges
+Challenges in applying FVS to a Canadian Context
