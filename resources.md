@@ -12,7 +12,7 @@ Links to the FVS Manuals and other useful resources, potential way to destribute
 
 # Project Documentation
 
-[How to Retrieve Data in FVS](assets/myfile.pdf)
+[How to Retrieve Data in FVS](assets/CRD FVS Guide.pdf)
 
 
 ![Alt text](/assests/photo1.png)
