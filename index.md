@@ -5,4 +5,4 @@ permalink: /
 ---
 
 
-home page with general information
+A general description of what the project and website are, who is it for..
