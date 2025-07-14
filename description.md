@@ -1,7 +1,7 @@
 ---
 layout: page
-title: History
-permalink: /history/
+title: Study Description
+permalink: /Description/
 ---
 
 Talks about the history of the project
