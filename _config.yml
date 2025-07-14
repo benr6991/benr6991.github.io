@@ -6,12 +6,12 @@ url: ""     # the base hostname & protocol, e.g. https://example.com
 
 # Navigation menu (custom data, used in layout)
 nav:
-  - title: History
-    url: /history/
-  - title: About
-    url: /about/
-  - title: Research
-    url: /research/
+  - title: Study Description
+    url: /Description/
+  - title: FVS
+    url: /FVS/
+  - title: Ensembles
+    url: /Ensembles/
   - title: Resources
     url: /resources/
 
