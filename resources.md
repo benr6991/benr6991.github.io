@@ -9,4 +9,10 @@ Links to the FVS Manuals and other useful resources, potential way to destribute
 
 [Essential FVS Guide](https://www.fs.usda.gov/sites/default/files/essential-fvs.pdf)
 
+
+# Project Documentation
+
+[How to Retrieve Data in FVS](assets/myfile.pdf)
+
+
 ![Alt text](/assests/photo1.png)
