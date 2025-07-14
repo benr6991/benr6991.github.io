@@ -15,4 +15,4 @@ A general description of the history and general function of the model
 Why Use FVS instead of other forestry simulation tools
 
 # Challenges
-Challenges in applying FVS to a Canadian Context
+Challenges in applying FVS to a Canadian Context considering range constraints
