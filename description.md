@@ -3,5 +3,14 @@ layout: page
 title: Study Description
 permalink: /Description/
 ---
+* Table of contents
+{:toc}
 
-Describes Methodology, study site, reasoning etc.
+*Methods
+Description of Methods
+
+*Study Site
+Description of Study Site
+
+*Reasoning
+Reasoning of Study
